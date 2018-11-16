@@ -39,7 +39,7 @@ bfs
 
 - [ ] 6151 — Beehives (4) //[NICE] //Search for shortest cycle
 
-- [ ] <a href="https://devskill.com/CodingProblems/ViewProblem/60">https://devskill.com/CodingProblems/ViewProblem/60</a>
+- [x] <a href="https://devskill.com/CodingProblems/ViewProblem/60">https://devskill.com/CodingProblems/ViewProblem/60</a>
 
 - [ ] <a href="https://devskill.com/CodingProblems/ViewProblem/150">https://devskill.com/CodingProblems/ViewProblem/150</a>
 

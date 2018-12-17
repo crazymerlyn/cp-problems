@@ -107,7 +107,7 @@ bfs-grid
 
 big
 ===
-- [ ] <a href="https://devskill.com/CodingProblems/ViewProblem/394">https://devskill.com/CodingProblems/ViewProblem/394</a> (2) //Multiplication (or math)
+- [x] <a href="https://devskill.com/CodingProblems/ViewProblem/394">https://devskill.com/CodingProblems/ViewProblem/394</a> (2) //Multiplication (or math)
 
 - [ ] <a href="//codeforces.com/contest/66/problem/A">http://codeforces.com/contest/66/problem/A</a> (2) //Big + iffs + implementation
 

@@ -235,7 +235,7 @@ big
 
 - [ ] <a href="http://www.spoj.com/problems/PUCMM025/">http://www.spoj.com/problems/PUCMM025/</a> (2) //Divisibility by 1 → 9
 
-- [ ] <a href="http://www.spoj.com/problems/CSQUARE/">http://www.spoj.com/problems/CSQUARE/</a> (3) //Converse + Power 
+- [x] <a href="http://www.spoj.com/problems/CSQUARE/">http://www.spoj.com/problems/CSQUARE/</a> (3) //Converse + Power 
 
 - [ ] <a href="//codeforces.com/contest/17/problem/D">http://codeforces.com/contest/17/problem/D</a> (5) //B^(N-1)*(B-1)%C [B/N are big]
 

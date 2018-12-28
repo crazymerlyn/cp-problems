@@ -231,7 +231,7 @@ big
 
 - [ ] <a href="http://www.spoj.com/problems/NUMPLAY/">http://www.spoj.com/problems/NUMPLAY/</a> (3) //With DP
 
-- [ ] <a href="http://www.spoj.com/problems/IWGBS/">http://www.spoj.com/problems/IWGBS/</a> (3) //Fibonacci 10^4
+- [x] <a href="http://www.spoj.com/problems/IWGBS/">http://www.spoj.com/problems/IWGBS/</a> (3) //Fibonacci 10^4
 
 - [ ] <a href="http://www.spoj.com/problems/PUCMM025/">http://www.spoj.com/problems/PUCMM025/</a> (2) //Divisibility by 1 → 9
 

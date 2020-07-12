@@ -352,7 +352,7 @@ bits
 
 bitset
 ======
-- [ ] <a href="http://www.spoj.com/problems/ADACOINS/">http://www.spoj.com/problems/ADACOINS/</a>
+- [x] <a href="http://www.spoj.com/problems/ADACOINS/">http://www.spoj.com/problems/ADACOINS/</a>
 
 - [ ] <a href="http://www.spoj.com/problems/ADACHERY/">http://www.spoj.com/problems/ADACHERY/</a>
 

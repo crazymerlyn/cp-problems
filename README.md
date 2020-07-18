@@ -35,7 +35,7 @@ belman-ford
 
 bfs
 ===
-- [ ] <a href="http://www.spoj.com/problems/ADACYCLE/">http://www.spoj.com/problems/ADACYCLE/</a> [FW]
+- [x] <a href="http://www.spoj.com/problems/ADACYCLE/">http://www.spoj.com/problems/ADACYCLE/</a> [FW]
 
 - [ ] 6151 — Beehives (4) //[NICE] //Search for shortest cycle
 

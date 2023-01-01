@@ -1,3 +1,5 @@
+Taken from https://codeforces.com/blog/entry/55274
+
 aho
 ===
 - [ ] <a href="http://www.spoj.com/problems/ADAJOBS/">http://www.spoj.com/problems/ADAJOBS/</a>
